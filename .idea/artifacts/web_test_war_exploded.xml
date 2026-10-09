@@ -1,0 +1,19 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="web-test:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/web_test_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="web-test" />
+        </element>
+        <element id="directory" name="lib" />
+      </element>
+      <element id="module-output" name="web-test" />
+      <element id="javaee-facet-resources" facet="web-test/web/Web" />
+      <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/jstl-1.2.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/mysql-connector-java-8.0.23.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/taglibs-standard-impl-1.2.5.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/taglibs-standard-spec-1.2.5.jar" />
+    </root>
+  </artifact>
+</component>
