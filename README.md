@@ -21,3 +21,8 @@
 4. 配置 Tomcat 服务器
 5. 启动服务器，访问 `http://localhost:8080/` 即可
 
+
+## 运行截图
+<img width="1139" height="308" alt="image" src="https://github.com/user-attachments/assets/17ebc810-3265-43f7-8fa3-64a0c46b2aa9" />
+
+
