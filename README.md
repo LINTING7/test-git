@@ -23,6 +23,6 @@
 
 
 ## 运行截图
-<img width="1139" height="308" alt="image" src="https://github.com/user-attachments/assets/17ebc810-3265-43f7-8fa3-64a0c46b2aa9" />
+<img width="2534" height="1411" alt="屏幕截图 2026-10-10 181403" src="https://github.com/user-attachments/assets/afdc1a12-f52d-452c-939b-61e47232066a" />
 
 
