@@ -457,7 +457,7 @@
 <body>
 
 <div class="navbar">
-  <div class="logo">企业管理系统<span></span></div>
+  <div class="logo">企业管理系统V1.0<span></span></div>
   <div class="nav-links">
     <a href="${pageContext.request.contextPath}/emp/list.jsp" class="active"> 员工管理</a>
     <a href="${pageContext.request.contextPath}/address/manager.jsp"> 家庭住址管理</a>
